@@ -52,7 +52,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "COFFEE_TIME-V2",
   packname: process.env.PACK_NAME || "K A B O I",
   botname: process.env.BOT_NAME || "COFFEE_TIME-V2",
-  ownername: process.env.OWNER_NAME || "KABOI",
+  ownername: process.env.OWNER_NAME || "KABOI-",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
